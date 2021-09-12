@@ -17,3 +17,5 @@ https://github.com/pilsung-kang/Business-Analytics-IME654-
 
 읽어볼 만한 자료를 참 잘만들었다. 
 https://github.com/hoya012/awesome-anomaly-detection
+
+https://www.svds.com/learning-imbalanced-classes/
