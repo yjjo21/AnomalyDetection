@@ -23,3 +23,6 @@ https://www.svds.com/learning-imbalanced-classes/
 
 https://github.com/yzhao062/pyod
 https://github.com/yzhao062/anomaly-detection-resources
+
+
+https://www.kamp-ai.kr/front/dataset/AiDataDetail.jsp?AI_SEARCH=&page=1&DATASET_SEQ=2&EQUIP_SEL=&FILE_TYPE_SEL=&GUBUN_SEL=&WDATE_SEL=
