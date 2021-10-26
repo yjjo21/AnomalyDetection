@@ -19,3 +19,7 @@ https://github.com/pilsung-kang/Business-Analytics-IME654-
 https://github.com/hoya012/awesome-anomaly-detection
 
 https://www.svds.com/learning-imbalanced-classes/
+
+
+https://github.com/yzhao062/pyod
+https://github.com/yzhao062/anomaly-detection-resources
